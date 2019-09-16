@@ -1,4 +1,5 @@
 HELP.md
+/target/docker-0.0.1-SNAPSHOT*
 
 ### STS ###
 .apt_generated

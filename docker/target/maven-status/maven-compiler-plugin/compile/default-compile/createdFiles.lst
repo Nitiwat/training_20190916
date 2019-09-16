@@ -1,0 +1,3 @@
+com\example\docker\HelloService.class
+com\example\docker\HelloController.class
+com\example\docker\DockerApplication.class
